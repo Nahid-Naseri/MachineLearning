@@ -1,6 +1,6 @@
 # MachineLearning
 
-## Nahid Naseri - 101518575
+## Nahid Naseri
 
 ## Task2 - Github
 
